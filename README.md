@@ -1,5 +1,5 @@
-Formats: [PDF](doc/Futurice_Principles_for_Ethical_AI.pdf), [rtf](doc/Futurice_Principles_for_Ethical_AI.rtf)
-
+Our Futurice Principles for Ethical AI as [PDF](doc/Futurice_Principles_for_Ethical_AI.pdf) & [rtf](doc/Futurice_Principles_for_Ethical_AI.rtf)
+ 
 # The Futurice Principles for Ethical AI
 
 **Ethics is an integral part of our way of working. We will always uphold our responsibility to identify and raise ethical implications and concerns related to our work and help our clients deal with ethical questions related to autonomous systems in a responsible way.**
@@ -62,3 +62,6 @@ The following ethical principles are meant to support and guide our decision-mak
 
 #### Do not incite violence.
 * Violence is sparked by disrespect and distrust between individuals and groups. The systems we build should never promote the division of societies or social groups.
+
+## References:
+1. The original [blog](https://www.futurice.com/blog/introducing-the-futurice-principles-for-ethical-ai/) post
